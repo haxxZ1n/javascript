@@ -19,6 +19,13 @@ section {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.37);
 }
 
+img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+    
+
 footer {
     color: white;
     text-align: center;
